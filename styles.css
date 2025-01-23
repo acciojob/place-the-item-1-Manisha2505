@@ -3,7 +3,8 @@
 .holder{
 	display: flex;
 	flex-direction: row;
-	flex-wrap: round;
+	flex-wrap: wrap;
+	justify-content: space-around;
 }
 .item{
 	padding: 50px;
