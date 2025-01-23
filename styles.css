@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: round;
+}
+.item{
+	padding: 50px;
+
+}
+.item-1{
+	background: green;
+}
+.item-2{
+	background: red;
+}
+.item-3{
+	background: yellow;
+}
